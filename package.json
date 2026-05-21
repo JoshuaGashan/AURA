@@ -1,0 +1,12 @@
+{
+  "name": "narmies-aura",
+  "version": "1.0.0",
+  "description": "Premium Swiss Botanical Soap - Narmies Aura",
+  "homepage": "https://joshuagashan.github.io/AURA",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
